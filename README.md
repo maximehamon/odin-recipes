@@ -1,1 +1,1 @@
-Making a simple and brutalist recipie website
+Making a simple and brutalist recipe website
